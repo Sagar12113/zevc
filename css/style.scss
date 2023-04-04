@@ -77,11 +77,11 @@
   .org_works{
       position: absolute;
       top: 30%;
-      // left: 36%;
+      left:0;
       width: 100%;
       text-align: center;
       h2{
-          color: $icon;
+            color: $icon;
             font-size: clamp(1rem, 7vw, 4rem);
             padding: 15px;
             font-family: 'Electrolize';

@@ -256,6 +256,7 @@ section {
   .zev .org_works {
     position: absolute;
     top: 30%;
+    left: 0;
     width: 100%;
     text-align: center; }
     .zev .org_works h2 {
@@ -977,11 +978,6 @@ section {
   .heading {
     font-size: 3rem; }
 
-  .org_works {
-    position: absolute;
-    top: 35%;
-    left: 25% !important; }
-
   .testimonials_con {
     flex-direction: column; }
     .testimonials_con .customersrepeat {
@@ -1092,12 +1088,7 @@ section {
       font-size: 1.3rem; } }
 @media only screen and (max-width: 604px) {
   .heading {
-    font-size: 2.5rem; }
-
-  .org_works {
-    position: absolute;
-    top: 35%;
-    left: 20% !important; } }
+    font-size: 2.5rem; } }
 @media only screen and (max-width: 500px) {
   .heading {
     font-size: 2rem; }
